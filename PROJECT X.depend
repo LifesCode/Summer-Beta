@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1561492777 source:c:\users\gorilla guru\desktop\project x\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1561654155 c:\users\gorilla guru\desktop\project x\functions.h
+
+1561385551 source:c:\users\gorilla guru\desktop\project x\inventario.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Functions.h"
+
+1560701247 source:c:\users\gorilla guru\desktop\project x\sair.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1561388069 source:c:\users\gorilla guru\desktop\project x\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561386434 source:c:\users\gorilla guru\desktop\project x\editar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Functions.h"
+
+1561655271 source:c:\users\gorilla guru\desktop\project x\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561655005 source:c:\users\gorilla guru\desktop\project x\ordenar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+
+1561386434 source:c:\users\gorilla guru\desktop\project x - copia\editar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Functions.h"
+
+1561658346 c:\users\gorilla guru\desktop\project x - copia\functions.h
+
+1561660372 source:c:\users\gorilla guru\desktop\project x - copia\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Functions.h"
+
+1561657186 source:c:\users\gorilla guru\desktop\project x - copia\inventario.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Functions.h"
+
+1561659546 source:c:\users\gorilla guru\desktop\project x - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1561655398 source:c:\users\gorilla guru\desktop\project x - copia\ordenar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+
+1560701247 source:c:\users\gorilla guru\desktop\project x - copia\sair.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1561388069 source:c:\users\gorilla guru\desktop\project x - copia\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561658556 source:c:\users\gorilla guru\desktop\project x - copia\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561467734 source:c:\users\gorilla guru\desktop\project x\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561467734 source:c:\users\gorilla guru\desktop\project x - copia - copia\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561486529 c:\users\gorilla guru\desktop\project x - copia - copia\functions.h
+
+1561386434 source:c:\users\gorilla guru\desktop\project x - copia - copia\editar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Functions.h"
+
+1561495677 source:c:\users\gorilla guru\desktop\project x - copia - copia\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561385551 source:c:\users\gorilla guru\desktop\project x - copia - copia\inventario.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Functions.h"
+
+1561492777 source:c:\users\gorilla guru\desktop\project x - copia - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1560701247 source:c:\users\gorilla guru\desktop\project x - copia - copia\sair.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1561388069 source:c:\users\gorilla guru\desktop\project x - copia - copia\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561495350 source:c:\users\gorilla guru\desktop\project x - copia - copia\ordenar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+
+1561658556 source:c:\users\gorilla guru\desktop\project x - copia\estatisticas por fornecedor.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Functions.h"
+
+1561659465 source:c:\users\gorilla guru\desktop\project x - copia\faturacao.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Functions.h"
+
+1561714991 source:c:\users\gorilla guru\desktop\summer beta\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561730987 c:\users\gorilla guru\desktop\summer beta\functions.h
+
+1561658556 source:c:\users\gorilla guru\desktop\summer beta\estatisticas por fornecedor.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Functions.h"
+
+1561716032 source:c:\users\gorilla guru\desktop\summer beta\faturacao.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Functions.h"
+
+1561735251 source:c:\users\gorilla guru\desktop\summer beta\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Functions.h"
+
+1561734983 source:c:\users\gorilla guru\desktop\summer beta\inventario.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"Functions.h"
+
+1561716218 source:c:\users\gorilla guru\desktop\summer beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561715702 source:c:\users\gorilla guru\desktop\summer beta\sair.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561732769 source:c:\users\gorilla guru\desktop\summer beta\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Functions.h"
+
+1561724477 source:c:\users\gorilla guru\desktop\summer beta\ordenar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Functions.h"
+
+1561715414 source:c:\users\gorilla guru\desktop\summer beta\editar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Functions.h"
+
